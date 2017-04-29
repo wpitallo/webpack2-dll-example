@@ -1,0 +1,25 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "node_modules/angular-ui-router/release/angular-ui-router.js": 0,
+      "node_modules/angular/index.js": 1,
+      "node_modules/angular/angular.js": 2,
+      "dll vendor": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  "chunks": {
+    "byName": {
+      "vendor": 0
+    },
+    "byBlocks": {},
+    "usedIds": {
+      "0": 0
+    }
+  }
+}
